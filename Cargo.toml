@@ -1,0 +1,7 @@
+
+[workspace]
+resolver = "2" # Important! wgpu/Bevy needs this!
+members = ["mmoserv", "mmocli","mmolib"]
+[workspace.package]
+version = "1.0.0"
+description = "an mmorpg"
