@@ -11,6 +11,7 @@ pub mod component;
 pub mod effect;
 pub mod entity_id;
 mod hashing;
+pub mod position;
 pub mod raws;
 pub mod resource;
 pub mod server_request_type;
